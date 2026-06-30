@@ -1,0 +1,11 @@
+# Supabase (Project Settings -> API)
+NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
+
+# Stripe (Developers -> API keys)
+STRIPE_SECRET_KEY=sk_test_xxx
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_test_xxx
+STRIPE_WEBHOOK_SECRET=whsec_xxx
+
+# Your deployed site URL (used for Stripe redirect links)
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
